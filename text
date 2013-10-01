@@ -1,0 +1,5 @@
+Hello. I am a command line program that formats text.
+Instructions:
+1) Compile and run the program
+2) type in command of the form:
+numberofColumnsPerLine inputTextFileName options
