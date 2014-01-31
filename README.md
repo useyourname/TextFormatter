@@ -2,7 +2,7 @@ TextFormatter
 =============
 
 Unix-like command line program that formats text (left-align, right-align, center-align, justify)
-written in simple procedural messy C++ with terrible variable names.
+written in simple procedural C++.
 
 **instructions:**  
 1) Compile and run the program  
